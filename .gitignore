@@ -1,0 +1,5 @@
+venv
+anon.session
+.idea
+api_config.json
+__pychache__
